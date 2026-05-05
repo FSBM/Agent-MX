@@ -1,5 +1,10 @@
 # Agent-MX
 
+
+<img width="1261" height="513" alt="Screenshot 2026-05-06 at 3 04 41 AM" src="https://github.com/user-attachments/assets/67864d1f-eec3-4625-a888-e5b15f922315" />
+
+
+
 A small CLI agent I built for the AI Agent assignment. You chat with it in the
 terminal (similar to Cursor / Windsurf), tell it to clone the Scaler Academy
 website, and it actually writes the HTML/CSS/JS to disk and opens the page in
